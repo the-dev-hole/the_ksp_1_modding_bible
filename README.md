@@ -17,6 +17,6 @@ You can also specify the width of the tag. 640 is recommended for large, importa
 3. Enter a description, then click **Commit changes**.
 4. On your page, create a link to your newly-uploaded file. You can use the markdown template below:
 
-    **Download**: [📄your_file_name.ext](../blob/main/Files/your_file_name.ext)
+`**Download**: [📄your_file_name.ext](../blob/main/Files/your_file_name.ext)`
 
 Please note spaces are not allowed in links and must be replaced with `%20`; for example: `file%20name%20with%spaces.ext`
